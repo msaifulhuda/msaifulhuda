@@ -3,7 +3,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/msaifulhuda?label=Follow&style=social)](https://github.com/msaifulhuda/?tab=follow)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/muhammadsaifulhuda/)](https://www.linkedin.com/in/muhammadsaifulhuda/)
 
-[![wakatime](https://wakatime.com/badge/user/eafdbba4-cec2-4c99-8cd5-5fc36bb00274.svg)](https://wakatime.com/@eafdbba4-cec2-4c99-8cd5-5fc36bb00274)
 [![ProfileViews](https://komarev.com/ghpvc/?username=msaifulhuda&color=red&style=flat)](https://komarev.com/ghpvc/?username=msaifulhuda)
 
 - 🔭 I’m currently working on Tempat Pulih Indonesia as a Graphic Design Mentor, and more!
