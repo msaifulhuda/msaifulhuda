@@ -31,6 +31,3 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
-
-# My Stats
- ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=msaifulhuda&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
