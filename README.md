@@ -21,7 +21,6 @@
 
 [![ProfileViews](https://komarev.com/ghpvc/?username=msaifulhuda&color=red&style=flat)](https://komarev.com/ghpvc/?username=msaifulhuda)
 
-- 🔭 I’m currently working on Tempat Pulih Indonesia as a Graphic Design Mentor, and more!
 - 🌱 I’m currently learning programming
 - 💬 Ask me about Graphic Design, UI/UX, etc.
 - 📫 How to reach me: DM Me on my Instagram @sfl.huda!
